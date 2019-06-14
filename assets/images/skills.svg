@@ -1,0 +1,95 @@
+<svg width="500" height="520" viewBox="0 0 500 520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <circle class="pie" cx="250" cy="150" r="135" fill="#fff"></circle>
+   <g opacity="0.9999998780673678">
+      <g data-order="0" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#3572A5" class="pieSegment" d="M 250 30 A 120 120 0 0 1 369.76320602595484 142.46511563561228 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#3572A5" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 250 18 A 132 132 0 0 1 381.7395266285503 141.7116271991735 L 250 150 Z"></path>
+      </g>
+      <g data-order="1" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#ccc" class="pieSegment" d="M 369.76320602595484 142.46511563561228 A 120 120 0 0 1 320.53426002589697 247.08201770976513 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#ccc" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s;" d="M 381.7395266285503 141.7116271991735 A 132 132 0 0 1 327.5876860284867 256.79021948074165 L 250 150 Z"></path>
+      </g>
+      <g data-order="2" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#e44b23" class="pieSegment" d="M 320.53426002589697 247.08201770976513 A 120 120 0 0 1 234.96005940153856 269.05377014943605 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#e44b23" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s;" d="M 327.5876860284867 256.79021948074165 A 132 132 0 0 1 233.4560653416924 280.95914716437966 L 250 150 Z"></path>
+      </g>
+      <g data-order="3" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#f34b7d" class="pieSegment" d="M 234.96005940153856 269.05377014943605 A 120 120 0 0 1 179.46581435111594 247.08207174781944 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#f34b7d" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s;" d="M 233.4560653416924 280.95914716437966 A 132 132 0 0 1 172.41239578622753 256.7902789226014 L 250 150 Z"></path>
+      </g>
+      <g data-order="4" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#2b7489" class="pieSegment" d="M 179.46581435111594 247.08207174781944 A 120 120 0 0 1 141.42078032203665 201.0935715538127 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#2b7489" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 172.41239578622753 256.7902789226014 A 132 132 0 0 1 130.56285835424032 206.20292870919394 L 250 150 Z"></path>
+      </g>
+      <g data-order="5" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#555555" class="pieSegment" d="M 141.42078032203665 201.0935715538127 A 120 120 0 0 1 130.23678820141458 142.4652073892394 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#555555" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 130.56285835424032 206.20292870919394 A 132 132 0 0 1 118.26046702155605 141.71172812816334 L 250 150 Z"></path>
+      </g>
+      <g data-order="6" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#ccc" class="pieSegment" d="M 130.23678820141458 142.4652073892394 A 120 120 0 0 1 148.68060756032315 85.70084980612296 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#ccc" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 118.26046702155605 141.71172812816334 A 132 132 0 0 1 138.54866831635547 79.27093478673525 L 250 150 Z"></path>
+      </g>
+      <g data-order="7" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#f1e05a" class="pieSegment" d="M 148.68060756032315 85.70084980612296 A 120 120 0 0 1 167.8542883129481 62.52382009125142 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#f1e05a" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 138.54866831635547 79.27093478673525 A 132 132 0 0 1 159.63971714424292 53.776202100376565 L 250 150 Z"></path>
+      </g>
+      <g data-order="8" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#0298c3" class="pieSegment" d="M 167.8542883129481 62.52382009125142 A 120 120 0 0 1 192.18948498958306 44.84323914160176 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#0298c3" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s;" d="M 159.63971714424292 53.776202100376565 A 132 132 0 0 1 186.40843348854136 34.32756305576193 L 250 150 Z"></path>
+      </g>
+      <g data-order="9" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#375eab" class="pieSegment" d="M 192.18948498958306 44.84323914160176 A 120 120 0 0 1 220.15712805536424 33.77004261337754 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#375eab" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s; opacity: 0.3;" d="M 186.40843348854136 34.32756305576193 A 132 132 0 0 1 217.1728408609007 22.1470468747153 L 250 150 Z"></path>
+      </g>
+      <g data-order="10" class="pieSegmentGroup">
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#438eff" class="pieSegment" d="M 220.15712805536424 33.77004261337754 A 120 120 0 0 1 249.9999080649612 30.000000000035214 L 250 150 Z"></path>
+         <path stroke-width="1" stroke="#fff" stroke-miterlimit="2" fill="#438eff" opacity="0.3" class="lightPie" style="transition: opacity 0.1s ease 0s;" d="M 217.1728408609007 22.1470468747153 A 132 132 0 0 1 249.9998988714573 18.00000000003874 L 250 150 Z"></path>
+      </g>
+   </g>
+   <g class="legend" transform="translate(0,120)">
+      <g transform="translate(0,170)">
+         <rect width="10" height="10" fill="#3572A5"></rect>
+         <text y="11" x="20">Python</text>
+      </g>
+      <g transform="translate(0,190)">
+         <rect width="10" height="10" fill="#ccc"></rect>
+         <text y="11" x="20">Others</text>
+      </g>
+      <g transform="translate(0,210)">
+         <rect width="10" height="10" fill="#e44b23"></rect>
+         <text y="11" x="20">HTML</text>
+      </g>
+      <g transform="translate(0,230)">
+         <rect width="10" height="10" fill="#f34b7d"></rect>
+         <text y="11" x="20">C++</text>
+      </g>
+      <g transform="translate(0,250)">
+         <rect width="10" height="10" fill="#2b7489"></rect>
+         <text y="11" x="20">TypeScript</text>
+      </g>
+      <g transform="translate(0,270)">
+         <rect width="10" height="10" fill="#555555"></rect>
+         <text y="11" x="20">C</text>
+      </g>
+      <g transform="translate(0,290)">
+         <rect width="10" height="10" fill="#ccc"></rect>
+         <text y="11" x="20">Vim script</text>
+      </g>
+      <g transform="translate(0,310)">
+         <rect width="10" height="10" fill="#f1e05a"></rect>
+         <text y="11" x="20">JavaScript</text>
+      </g>
+      <g transform="translate(0,330)">
+         <rect width="10" height="10" fill="#0298c3"></rect>
+         <text y="11" x="20">Perl</text>
+      </g>
+      <g transform="translate(0,350)">
+         <rect width="10" height="10" fill="#375eab"></rect>
+         <text y="11" x="20">Go</text>
+      </g>
+      <g transform="translate(0,370)">
+         <rect width="10" height="10" fill="#438eff"></rect>
+         <text y="11" x="20">Objective-C</text>
+      </g>
+   </g>
+</svg>

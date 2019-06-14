@@ -2,45 +2,24 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Congratulations! You just found another personal page written by a software engineer.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+There is nothing here but my two little kittens.
 
-<h2>Skills</h2>
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
+    <img style="max-width: 50%;padding:5px"
+      src="https://lh3.googleusercontent.com/1g_aoFDF3rUsisP4BWfSjn948YZMgZSc0kzlktLpjhZh8XbQeDogU5uQWhtALjewC4Cfa30_czXjSLrEqQhjrpsvZg1tktaenEgnQw5L-DDg7MEGp9wkHicMGhgLQJvwUjCh8Q1fWg=w2400" />
+    <img style="max-width: 50%;padding:5px"
+      src="https://lh3.googleusercontent.com/-4XSVn3aRSRNmt_gTMaJiN5VKUF_L47aexkzyjBuS7pywcJJcvzSlXEr6dd1tC5Hwg23BLirChWUEKY80WDePMtP8oVGrU-TNT4qzJp-EtI1nncYQnCzVZHV1fwe_CyznuXTTyujZA=w2400" />
+</div>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Oh, you are saying me? I'm just an ordinary software engineer you'd probably come across the internet everyday given the truth that you clicked into my site.
 
-<h2>Projects</h2>
+Anyway here is a skill pie chart that generated from my Github page that might give you some impression about me.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Or you can go to my [blog](https://blog.leishi.io/) to see if there is some thing interest.
+
+<div class="skills-svg">
+	<img src="{{site.url}}/assets/images/skills.svg" style="width:100%" />
+</div>
