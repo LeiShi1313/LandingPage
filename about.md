@@ -9,9 +9,9 @@ There is nothing here but my two little kittens.
 
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
     <img style="max-width: 50%;padding:5px"
-      src="https://lh3.googleusercontent.com/1g_aoFDF3rUsisP4BWfSjn948YZMgZSc0kzlktLpjhZh8XbQeDogU5uQWhtALjewC4Cfa30_czXjSLrEqQhjrpsvZg1tktaenEgnQw5L-DDg7MEGp9wkHicMGhgLQJvwUjCh8Q1fWg=w2400" />
+      src="{{site.url}}/assets/images/xigua.jpg" />
     <img style="max-width: 50%;padding:5px"
-      src="https://lh3.googleusercontent.com/-4XSVn3aRSRNmt_gTMaJiN5VKUF_L47aexkzyjBuS7pywcJJcvzSlXEr6dd1tC5Hwg23BLirChWUEKY80WDePMtP8oVGrU-TNT4qzJp-EtI1nncYQnCzVZHV1fwe_CyznuXTTyujZA=w2400" />
+      src="{{site.url/assets/images/caomei.jpg}}" />
 </div>
 
 Oh, you are saying me? I'm just an ordinary software engineer you'd probably come across the internet everyday given the truth that you clicked into my site.
