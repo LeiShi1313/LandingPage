@@ -11,7 +11,7 @@ There is nothing here but my two little kittens.
     <img style="max-width: 50%;padding:5px"
       src="{{site.url}}/assets/images/xigua.jpg" />
     <img style="max-width: 50%;padding:5px"
-      src="{{site.url/assets/images/caomei.jpg}}" />
+      src="{{site.url}}/assets/images/caomei.jpg" />
 </div>
 
 Oh, you are saying me? I'm just an ordinary software engineer you'd probably come across the internet everyday given the truth that you clicked into my site.
